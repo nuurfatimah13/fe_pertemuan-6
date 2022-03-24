@@ -1,4 +1,4 @@
-# fe-pertemuan-6
+# fe_pertemuan-6
 
   Melengkapi Movie App sebelumnya dengan melakukan Refactor ke Movie Component, melakukan handling event, membuat state, menggunkan list dan keys
 
